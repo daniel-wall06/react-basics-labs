@@ -42,3 +42,7 @@ div {
   font-family: 'Times New Roman', Times, serif;
 
 }
+.priority{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
